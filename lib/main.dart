@@ -140,7 +140,13 @@ Widget getListView() {
         title: Text("When They See Us"),
         subtitle: Text("Netflix"),
         trailing: Icon(Icons.bubble_chart),
-      )
+      ),
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Dark"),
+        subtitle: Text("Netflix"),
+        trailing: Icon(Icons.bubble_chart),
+      ),
     ],
   );
   return listview;
