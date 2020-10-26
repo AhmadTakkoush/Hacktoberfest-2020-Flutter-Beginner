@@ -123,11 +123,11 @@ Widget getListView() {
         leading: Icon(Icons.bubble_chart),
         title: Text("Young Sheldon"),
         subtitle: Text("Amazon Prime"),
-        ),
+      ),
       ListTile(
         title: Text("Manifest"),
         subtitle: Text("Amazon Prime Videos"),
-        ),
+      ),
       ListTile(
         ///new list view added
         leading: Icon(Icons.bubble_chart),
@@ -141,34 +141,40 @@ Widget getListView() {
         subtitle: Text("Netflix"),
         trailing: Icon(Icons.bubble_chart),
       ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Asur"),            
-        subtitle: Text("Zee5"),         
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Asur"),
+        subtitle: Text("Zee5"),
         trailing: Icon(Icons.bubble_chart),
       ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Code M"),            
-        subtitle: Text("Zee5"),         
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Code M"),
+        subtitle: Text("Zee5"),
         trailing: Icon(Icons.bubble_chart),
       ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Money Heist"),            
-        subtitle: Text("Netflix"),         
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Money Heist"),
+        subtitle: Text("Netflix"),
         trailing: Icon(Icons.bubble_chart),
       ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Suits"),            
-        subtitle: Text("Netflix"),         
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Suits"),
+        subtitle: Text("Netflix"),
         trailing: Icon(Icons.bubble_chart),
       ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Mirzapur"),            
-        subtitle: Text("Amazon Prime Video"),         
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Mirzapur"),
+        subtitle: Text("Amazon Prime Video"),
+        trailing: Icon(Icons.bubble_chart),
+      ),
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Big Bang Theory"),
+        subtitle: Text("CBN network, Netflix"),
         trailing: Icon(Icons.bubble_chart),
       ),
     ],
