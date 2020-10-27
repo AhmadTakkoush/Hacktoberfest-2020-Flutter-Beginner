@@ -136,6 +136,13 @@ Widget getListView() {
         trailing: Icon(Icons.bubble_chart),
       ),
       ListTile(
+        ///new list view added
+        leading: Icon(Icons.bubble_chart),
+        title: Text("Better Call Saul"),
+        subtitle: Text("AMC"),
+        trailing: Icon(Icons.bubble_chart),
+      ),
+      ListTile(
         leading: Icon(Icons.bubble_chart),
         title: Text("When They See Us"),
         subtitle: Text("Netflix"),
