@@ -141,34 +141,12 @@ Widget getListView() {
         subtitle: Text("Netflix"),
         trailing: Icon(Icons.bubble_chart),
       ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Asur"),            
-        subtitle: Text("Zee5"),         
+      ListTile(
+        leading: Icon(Icons.bubble_chart),
+        title: Text("When They See Us"),
+        subtitle: Text("Netflix"),
         trailing: Icon(Icons.bubble_chart),
       ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Code M"),            
-        subtitle: Text("Zee5"),         
-        trailing: Icon(Icons.bubble_chart),
-      ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Money Heist"),            
-        subtitle: Text("Netflix"),         
-        trailing: Icon(Icons.bubble_chart),
-      ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Suits"),            
-        subtitle: Text("Netflix"),         
-        trailing: Icon(Icons.bubble_chart),
-      ),
-      ListTile(                            
-        leading: Icon(Icons.bubble_chart), 
-        title: Text("Mirzapur"),            
-        subtitle: Text("Amazon Prime Video"),         
         trailing: Icon(Icons.bubble_chart),
       ),
     ],
