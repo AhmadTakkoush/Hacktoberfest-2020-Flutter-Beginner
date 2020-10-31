@@ -8,7 +8,7 @@
 
 - [ ] Click the Fork button on the upper right-hand corner. This will save the repo to your GitHub account.
 - [ ] Clone the repo locally by running the git clone command in your terminal.
-- [ ] Now create a branch using the ```git checkout``` command.
+- [ ] Now create a branch using the ```git checkout -b``` command.
 - [ ] Make changes to the project and save it, then execute ```git status``` , and you’ll see the changes.
 - [ ] Add those changes to the branch you just created using the ```git add``` command.
 - [ ] Now commit those changes using the ```git commit``` command.
